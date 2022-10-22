@@ -36,7 +36,7 @@ Then leave right now. I help those who want to be taught, and if your a snowflak
 [awards and accolades](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/9d3097024d7ff7d0043107575840540424fa5521/Awards%20and%20Accolades)
 
 
-[Click here if your a sensitive snowflake]()
+[Click here if your a sensitive snowflake](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/9b60a9de284e614b1ac7902ba5881728274f333f/Snowflakes)
 
 
 
