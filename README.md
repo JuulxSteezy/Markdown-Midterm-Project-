@@ -42,7 +42,7 @@ Then leave right now. I help those who want to be taught, and if your a snowflak
 [reviews](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/d4ddb57b267ad5283911edf8d08309e162634aaf/Reviews)
 
 
-[awards and accolades](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/9d3097024d7ff7d0043107575840540424fa5521/Awards%20and%20Accolades)
+[awards and accolades](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/a0b6b3b917e54546782f42c29a5eaab0f09916f9/Awards%20and%20Accolades.md)
 
 
 [Click here if your a sensitive snowflake](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/9b60a9de284e614b1ac7902ba5881728274f333f/Snowflakes)
