@@ -14,4 +14,4 @@ is ever *my* fault. do you think you know struggle? Have you ever been in a figh
 
 
 
-[Now leave and never come back) (https://www.google.com/)
+[Now leave and never come back](https://www.google.com/)
