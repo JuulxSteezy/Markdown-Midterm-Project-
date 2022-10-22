@@ -1,5 +1,7 @@
 # The Holy Dojo
 
+(Serenity) (https://tenor.com/view/buddha-gif-23906013)
+
 **Warning**:
 
 If the following applies to you:
