@@ -5,7 +5,7 @@
 I'm Sensai Dan, and I'm about the best goddamn music a teacher you could afford. It might be tough, but I'll help you accompplish whatever
 goals you may have on your musical journey.
 
-[home](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/ef68fa98894020c3e224944197a12c87c74b8aea/About%20me.md)
+[home](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/fce48f738ec3d941e1f5599901ae43baaca29709/README.md)
 
 
 [reviews](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/1adc9f38f8be948b85edc12ac3e1bf6888bc3412/Reviews.md)
