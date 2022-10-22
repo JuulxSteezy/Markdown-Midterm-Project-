@@ -1,6 +1,6 @@
 # The Holy Dojo
 
-![Serenity] (https://media.tenor.com/E8ROZo6MAfcAAAAM/namaste-peace.gif)
+! [Serenity] (https://media.tenor.com/E8ROZo6MAfcAAAAM/namaste-peace.gif)
 
 **Warning**:
 
