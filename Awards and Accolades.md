@@ -7,5 +7,5 @@
 - Multiple tours in Iraq and afganastan
 
 
-!(https://cdn.theatlantic.com/media/img/photo/2022/07/oak-fire/a01_AP22204449720919-1/original.jpg)
+![](https://cdn.theatlantic.com/media/img/photo/2022/07/oak-fire/a01_AP22204449720919-1/original.jpg)
 
