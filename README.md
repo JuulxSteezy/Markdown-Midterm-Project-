@@ -27,7 +27,7 @@ Then leave right now. I help those who want to be taught, and if your a snowflak
 
 
 
-About me ()
+About me (https://github.com/JuulxSteezy/Markdown-Midterm-Project-/commit/6c353e71ba78fe7578369d62854ad35992c3b423)
 reviews ()
 
 
@@ -39,8 +39,7 @@ reviews ()
 
 
 
-About me ()
-Reviews ()
+
 
 
 
