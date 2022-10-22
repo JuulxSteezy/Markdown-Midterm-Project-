@@ -1,6 +1,6 @@
 # The Holy Dojo
 
-! [Serenity] (https://media.tenor.com/E8ROZo6MAfcAAAAM/namaste-peace.gif)
+! [Serenity] (https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/deb50483-79d3-4f71-b120-d10cdb33b484/d576qcd-1a70ccb6-ef88-4528-bbcf-bcaa7dd1e11f.jpg/v1/fill/w_900,h_611,q_75,strp/fire_meditation_by_banjo83_d576qcd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjExIiwicGF0aCI6IlwvZlwvZGViNTA0ODMtNzlkMy00ZjcxLWIxMjAtZDEwY2RiMzNiNDg0XC9kNTc2cWNkLTFhNzBjY2I2LWVmODgtNDUyOC1iYmNmLWJjYWE3ZGQxZTExZi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._V0BpLS4dgIdl1ZwEh7mDnglhTifaTLZS_rJ-2ymGGY)
 
 **Warning**:
 
