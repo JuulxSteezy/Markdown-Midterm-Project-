@@ -18,7 +18,7 @@ Great with answering questions and tailors to address my weaknesses. I would rec
 with any kind of band related tutoring endeavers. - Jamarion
 
 
-[home]
+[home](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/fce48f738ec3d941e1f5599901ae43baaca29709/README.md)
 
 [About me](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/ef68fa98894020c3e224944197a12c87c74b8aea/About%20me.md)
 
