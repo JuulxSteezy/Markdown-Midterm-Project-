@@ -30,7 +30,7 @@ Then leave right now. I help those who want to be taught, and if your a snowflak
 [About me](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/commit/6c353e71ba78fe7578369d62854ad35992c3b423)
 
 
-[reviews](
+[reviews](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/d4ddb57b267ad5283911edf8d08309e162634aaf/Reviews)
 
 
 
