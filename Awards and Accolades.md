@@ -5,7 +5,7 @@
 - Multiple musical accomplishments
 - Mentored many great students who went on to make radio hits (remember paralyzer?)
 - Multiple tours in Iraq and afganastan
- ```<p>Coder with certficate in cybersecurity <p>```
+- ```<p>Coder with certficate in cybersecurity <p>```
              
     
 
