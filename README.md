@@ -33,7 +33,10 @@ Then leave right now. I help those who want to be taught, and if your a snowflak
 [reviews](https://github.com/JuulxSteezy/Markdown-Midterm-Project-/blob/d4ddb57b267ad5283911edf8d08309e162634aaf/Reviews)
 
 
-[
+[awards and accolades]
+
+
+[Click here if your a sensitive snowflake](
 
 
 
