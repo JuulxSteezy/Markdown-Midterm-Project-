@@ -1,10 +1,45 @@
-# Markdown Midterm
+# The Holy Dojo
 
-This is my Midterm project which serves to teach me how to code websites via markdown and why procastination is terrible for the spirit. This website will hopefully give you a good idea of who I am.
+**Warning**:
 
-## about me
+If the following applies to you:
 
-![self portrait](https://bloody-disgusting.com/wp-content/uploads/2015/03/RealFreddy.jpg)
+- Lazy and/or unpunctual
+- weak
+- sensitive
+- Gets offended
+
+Then leave right now. I help those who want to be taught, and if your a snowflake then you simply will not learn.
+
+
+# band tutoring
+
+ I am a classicaly trained musician with an absolute perfect ptich, but that doesn't really matter. I believe with the right amount of training, hard work, and dicipline anyone can become a successful musician.
+ 
+
+
+
+
+
+
+
+
+
+About me ()
+reviews ()
+
+
+
+
+
+
+
+
+
+
+About me ()
+Reviews ()
+
 
 
 
